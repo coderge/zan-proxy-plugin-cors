@@ -1,0 +1,22 @@
+{
+  "name": "@coderge/zan-proxy-plugin-cors",
+  "version": "1.0.0",
+  "description": "A cors plugin for ZanProxy",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/coderge/zan-proxy-plugin-cors.git"
+  },
+  "author": "Coderge",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/coderge/zan-proxy-plugin-cors/issues"
+  },
+  "homepage": "https://github.com/coderge/zan-proxy-plugin-cors",
+  "dependencies": {
+    "koa": "^2.6.2"
+  }
+}
